@@ -1,4 +1,4 @@
-class CadastrarProdutos:
+class Produto:
     def __init__(self, nome, preco, codigo, codigo_interno, quantidade):
         self.nome = nome
         self.preco = preco
