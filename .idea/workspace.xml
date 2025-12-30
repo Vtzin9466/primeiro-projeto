@@ -42,6 +42,7 @@
     "Docker.docker-compose.yml.mysql: Compose Deployment.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Node.js.node.js.executor": "Run",
+    "Python.registro_de_vendas.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -113,6 +114,7 @@
       <workItem from="1767041303255" duration="97000" />
       <workItem from="1767042384979" duration="853000" />
       <workItem from="1767043653169" duration="6042000" />
+      <workItem from="1767123022962" duration="3630000" />
     </task>
     <servers />
   </component>
@@ -129,5 +131,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/primeiro_projeto$registro_de_vendas.coverage" NAME="registro_de_vendas Coverage Results" MODIFIED="1767127823836" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
