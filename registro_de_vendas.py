@@ -1,5 +1,5 @@
 import requests
-url = 'https://app.lojaintegrada.com.br/painel/plataforma/vender'
+url = 'https://api.skubana.com/'
 
 response = requests.get(url)
 
