@@ -29,6 +29,9 @@
     &quot;accountId&quot;: &quot;4f0c6ac6-d7d2-42ce-a64b-052aa89e0ba4&quot;
   }
 }</component>
+  <component name="HttpClientOnboardingState">{
+  &quot;isOnboardingCommentShown&quot;: true
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -40,8 +43,10 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;Docker.docker-compose.yml.mysql: Compose Deployment.executor&quot;: &quot;Run&quot;,
+    &quot;HTTP Request.generated-requests | #1.executor&quot;: &quot;Run&quot;,
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;Node.js.node.js.executor&quot;: &quot;Run&quot;,
+    &quot;OpenAPI/Swagger Code Generator.om-openApi.json.executor&quot;: &quot;Run&quot;,
     &quot;Python.registro_de_vendas.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
@@ -63,7 +68,40 @@
     ]
   }
 }</component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationStatuses">
+      <map>
+        <entry key="HttpClient.HttpRequestRunConfigurationType">
+          <value>
+            <map>
+              <entry key="generated-requests | #1" value="STOPPED" />
+            </map>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunManager" selected="HTTP Request.generated-requests | #1">
+    <configuration name="generated-requests | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" executionIdentifier="#1" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="om-openApi.json" type="SwaggerCodegen" editBeforeRun="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="customTemplatesPath" value="" />
+      <option name="generateToPath" value="C:\Users\Vtzin9466\gen" />
+      <option name="generationParameters">
+        <list />
+      </option>
+      <option name="generatorType" value="OPENAPI_GENERATOR_V7" />
+      <option name="jdkPath" value="C:\Program Files\JetBrains\PyCharm 2025.1.2\jbr\bin\java.exe" />
+      <option name="language" value="python" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="specificationPath" value="C:\Projetos\primeiro projeto\om-openApi.json" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="docker-deploy" factoryName="docker-compose.yml" temporary="true">
       <deployment type="docker-compose.yml">
         <settings />
@@ -85,6 +123,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="HTTP Request.generated-requests | #1" />
         <item itemvalue="Docker.docker-compose.yml.mysql: Compose Deployment" />
       </list>
     </recent_temporary>
@@ -123,6 +162,8 @@
       <workItem from="1767213784202" duration="22000" />
       <workItem from="1767214149734" duration="26000" />
       <workItem from="1767214727636" duration="205000" />
+      <workItem from="1767382079211" duration="461000" />
+      <workItem from="1767897482972" duration="10000" />
     </task>
     <servers />
   </component>
@@ -141,6 +182,6 @@
     </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/primeiro_projeto$registro_de_vendas.coverage" NAME="registro_de_vendas Coverage Results" MODIFIED="1767214911690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/primeiro_projeto$registro_de_vendas.coverage" NAME="registro_de_vendas Coverage Results" MODIFIED="1767382423837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

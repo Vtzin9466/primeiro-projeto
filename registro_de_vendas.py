@@ -1,5 +1,5 @@
 import requests
-url = 'https://api.skubana.com/'
+url = 'https://api.awsli.com.br/v1/produto'
 
 response = requests.get(url)
 

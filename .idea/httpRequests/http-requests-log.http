@@ -1,0 +1,28 @@
+POST https://api.skubana.com/v1.1/inventory/add
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+[]
+
+<> 2026-01-02T163505.403.html
+
+###
+
+POST https://api.skubana.com/v1.1/inventory/add
+Content-Type: application/json
+Content-Length: 2
+User-Agent: IntelliJ HTTP Client/PyCharm 2025.3.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+x-http2-scheme: https
+
+[]
+
+<> 2026-01-02T163500.403.html
+
+###
+
